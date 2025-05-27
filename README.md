@@ -24,4 +24,5 @@
 ## Instalacion 
 
 En el ide de arduno debemos instalar todas las librerias
+
 ![alt text](img/tft_espi.png)
